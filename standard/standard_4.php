@@ -182,7 +182,7 @@ function serialize ($value) {}
  * @since 5.0
  * @since 7.0
  */
-function unserialize ($str, array $options = null) {}
+function unserialize ($str, array $options = []) {}
 
 /**
  * Dumps information about a variable
